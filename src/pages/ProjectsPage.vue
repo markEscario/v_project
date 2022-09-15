@@ -25,7 +25,7 @@
             <q-space />
             <q-btn class="update-btn" rounded size="xs" color="green" label="Update"
               @click="openUpdateProject(project)" />
-            <q-btn class="update-btn q-ml-sm" rounded size="xs" color="blue-grey" label="Trends"
+            <q-btn class="update-btn q-ml-sm" rounded size="xs" color="blue-grey" label="Story"
               @click="openTrend(project)" />
             <q-btn class="update-btn q-ml-sm" rounded size="xs" color="red" label="Delete"
               @click="openDeleteProject(project)" />
